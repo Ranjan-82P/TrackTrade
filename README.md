@@ -78,6 +78,6 @@ Follow this repo for dev logs, UI updates, and feature announcements.
 TrackTrade will soon become your favorite local trading buddy 💼❤️
 
 ---
-<p align=\"center\"><i>Made with love and logic — by a trader, for traders.</i></p>
+<p align=\"center\"><i>Made with love and logic — by Ranjan OP, for traders.</i></p>
 
 
